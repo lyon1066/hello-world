@@ -1,0 +1,1 @@
+#create a menu of simple modules from another group
